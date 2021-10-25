@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Call for papers"
+    url: /
+  - title: "Dates"
+    url: /
+  - title: "Submission"
+    url: /
+  - title: "Program"
+    url: /
+  - title: "Organization"
+    url: /
+  - title: "Contact"
+    url: /
