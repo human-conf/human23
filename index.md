@@ -13,6 +13,9 @@ excerpt: '1st Workshop on Advances in Human-Centric Experiments in Software Engi
 
 # Welcome
 
+**Under construction!** Thank you for showing interest about the HUMAN 2022 Workshop! This site and the workshop is currently under construction. We will add more information as soon as possible.
+{: .notice--danger}
+
 A large proportion of empirical studies in Software Engineering relies on human-centric experiments, for example, experimentation with development environments and other tools, assessment of effectiveness and usability of novel algorithms, developer productivity measurement, and enhancement, among others. In our field, such studies are planned very rigorously according to the best of our knowledge. However, since our primary field is computer science and not psychology, sociology, or any other field of humanities, soft and social sciences, many times, these experiments are sub-optimal from the methodological point of view.
 
 Human-study techniques are well established in psychology, social sciences, and other areas. For example, verbally acquired data (like think-aloud protocols, interviews, and retrospection) or analyzing the content and the structure of cognitive processes. On the other hand, often, the details of such techniques are not known to researchers in computer science and software engineering, and there are still many studies that are performed on an ad-hoc basis with students at hand or the researchers themselves.
