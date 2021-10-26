@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 1st Workshop on Advances in Human-Centric Experiments in Software Engineering
+title: HUMAN 2022
 email: geryxyz@inf.u-szeged.hu
 description: >- # this means to ignore newlines until "baseurl:"
   During the HUMAN workshop we seek the possibilities of how human-centric experiments in SE could be shifted from the current state of the practice and enhanced with techniques successfully applied in other scientific areas. In this sense, the workshop will be an interdisciplinary venue. Researchers and practitioners from other fields (e.g., psychology) will be invited to actively participate in the workshop as Keynote speakers and Program Committee members.
@@ -67,8 +67,13 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.5"
+        overlay_image: /assets/images/plumeria.jpg
+      excerpt: "1st Workshop on Advances in Human-Centric Experiments in Software Engineering"
 
 category_archive:
   type: liquid
