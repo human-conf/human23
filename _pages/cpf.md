@@ -65,5 +65,9 @@ We will follow the full double-blind review process as determined by the main co
 + Avoid revealing the institution affiliations of authors or at which the work was performed. For example, if the evaluation includes a user study conducted with undergraduates from the CS 101 class that you teach, you might say "The study participants consist of 200 students in an introductory CS course." You can of course add the institutional information in the camera-ready. Similar suggestions apply for work conducted in specific organizations (e.g., industrial studies). In such cases, avoid to mention the organization's name. Instead, you may just refer the organization as "Org" or "Company", etc. When appropriate and when this does not help too much in revealing the company's name, you might mention the context (e.g., financial organization, videogame development company, etc.).
 + Avoid linking directly to code repositories or tool deployments which can reveal your identity. You may post anonymized links (with a warning that following said link may reveal authors' identities), include links to anonymized code or deployments. When creating such repositories, a good practice can be asking somebody in your team to test the anonymization of the repository and of its content. In case anonymization is difficult to be achieved and you still want to provide availability of data/tools, you can simply state that you will link to the code or deployment in the camera-ready version. Program committee members are asked to keep into account the double-blind policy when reviewing papers, and therefore not requiring full availability of artifacts at submission time.
 
+## Publications
+
+All accepted workshop papers will be published together with the SANER 2022 proceedings.
+
 ## Submission deadline
 December 15., 2021, 23:59, AOE.
