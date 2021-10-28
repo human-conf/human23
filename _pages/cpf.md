@@ -68,6 +68,3 @@ We will follow the full double-blind review process as determined by the main co
 ## Publications
 
 All accepted workshop papers will be published together with the SANER 2022 proceedings.
-
-## Submission deadline
-December 15., 2021, 23:59, AOE.

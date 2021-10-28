@@ -5,11 +5,11 @@ main:
     url: /cpf
   - title: "Dates"
     url: /dates
-  - title: "Submission"
-    url: /
-  - title: "Program"
-    url: /
+#  - title: "Submission (TBA)"
+#    url: /
+#  - title: "Program (TBA)"
+#    url: /
   - title: "Organization"
-    url: /
-  - title: "Contact"
-    url: /
+    url: /organization
+#  - title: "Contact (TBA)"
+#    url: /
