@@ -6,12 +6,12 @@ layout: splash
 
 | Event            | Date                   | Timezone                                                  |
 |------------------|------------------------|-----------------------------------------------------------|
-| **Submission**   | 17th of December, 2021 | [AOE](https://www.timeanddate.com/time/zones/aoe)         |
-| **Notification** | 7th of January, 2022   | [AOE](https://www.timeanddate.com/time/zones/aoe)         |
-| **Camera Ready** | 12th of January, 2022  | [AOE](https://www.timeanddate.com/time/zones/aoe)         |
+| **Submission**   | 17th of December, 2021 | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
+| **Notification** | 7th of January, 2022   | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
+| **Camera Ready** | 12th of January, 2022  | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
 | **Workshop Day** | 18th of March, 2022    | [HST](https://www.timeanddate.com/time/zone/usa/honolulu) |
 
-<p>The current AOE time and date is:
+<p>The current AoE time and date is:
 <iframe src="https://free.timeanddate.com/clock/i81ly82o/n3399/ahl/avb/tt0/tw0/tm1/ts1/ta1" frameborder="0" width="228" height="18"></iframe>
 <br/>The current HST time and date is:
 <iframe src="https://free.timeanddate.com/clock/i81ly82o/n103/ahl/avb/tt0/tw0/tm1/ts1/ta1" frameborder="0" width="230" height="18"></iframe>
