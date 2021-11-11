@@ -7,6 +7,8 @@ main:
     url: /dates
   - title: "Submission"
     url: /submission
+  - title: "Publication"
+    url: /publication
 #  - title: "Program (TBA)"
 #    url: /
   - title: "Organization"

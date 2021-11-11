@@ -47,10 +47,3 @@ Empirical utilization or evaluation of theoretical or practical tools, methodolo
 
 Adaptation of theoretical or practical frameworks, mindsets, methodologies of humanities in the context of software engineering-related problems and research issues. Submissions may contain a methodological description of the possible application of humanities-related methods without any empirical evaluation yet.
 
-## Publications
-
-All accepted workshop papers will be published together with the SANER 2022 proceedings.
-
-### Special Issue
-
-Authors of selected papers accepted at HUMAN 2022 will be invited to submit revised, extended versions of their manuscripts for a special issue of Journal of Software: Evolution and Process (JSEP), edited by Wiley. We will post additional details about this call in the future.
