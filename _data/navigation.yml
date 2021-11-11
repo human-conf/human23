@@ -11,5 +11,5 @@ main:
 #    url: /
   - title: "Organization"
     url: /organization
-#  - title: "Contact (TBA)"
-#    url: /
+  - title: "Contact"
+    url: /contact
