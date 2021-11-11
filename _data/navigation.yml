@@ -5,8 +5,8 @@ main:
     url: /cpf
   - title: "Dates"
     url: /dates
-#  - title: "Submission (TBA)"
-#    url: /
+  - title: "Submission"
+    url: /submission
 #  - title: "Program (TBA)"
 #    url: /
   - title: "Organization"
