@@ -72,7 +72,7 @@ defaults:
       header:
         overlay_color: "#000"
         overlay_filter: "0.5"
-        overlay_image: /assets/images/plumeria.jpg
+        overlay_image: /assets/images/human_banner_4k.jpg
       excerpt: "1st Workshop on Advances in Human-Centric Experiments in Software Engineering"
 
 category_archive:

@@ -7,7 +7,7 @@ author_profile: false
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
-    overlay_image: /assets/images/plumeria.jpg
+    overlay_image: /assets/images/human_banner_4k.jpg
 excerpt: '1st Workshop on Advances in Human-Centric Experiments in Software Engineering<br/>Co-located with [SANER 2022](https://saner2022.uom.gr/index)<br/>Submission deadline: 17th of December, 2021, AoE'
 ---
 
