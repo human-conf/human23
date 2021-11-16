@@ -18,3 +18,16 @@ A large portion of empirical studies in Software Engineering relies on human-cen
 Human-study techniques are well established in psychology, social sciences, and other areas. For example, verbally acquired data (like think-aloud protocols, interviews, and retrospection) or analyzing the content and the structure of cognitive processes. On the other hand, often, the details of such techniques are not known to researchers in computer science and software engineering, and there are still many studies that are performed on an ad-hoc basis with students at hand or the researchers themselves.
 
 The distinguishing feature of the HUMAN workshop would be how human-centric experiments in SE could be shifted from the current state of the practice and enhanced with techniques successfully applied in other scientific areas. In this sense, the workshop will be an interdisciplinary venue. Researchers and practitioners from other fields (e.g., psychology) will be invited to actively participate in the workshop as Keynote speakers and Program Committee members.
+
+## Current Theme
+
+<p class="theme">Verbally acquired data</p>
+<p class="theme-def">Experiments that utilize information is gathered via speech, think-aloud protocol, oral retrospection, formal or informal interviews</p>
+
+We dedicated each edition of the workshop to a particular theme to encourage the utilization of this theme in the context of SE. The current theme does not excrete any restriction on the accepted topics. It is meant to draw attention to the theme.
+
+### Related Works for Motivation
+
+Ericsson, K. A., & Simon, H. A. (1980). <cite>Verbal reports as data. Psychological Review,</cite> 87(3), 215–251. <a href="https://doi.org/10.1037/0033-295X.87.3.215"><i class="fas fa-link"></i></a>
+
+Someren, M. W. van, Barnard, Y. F., & Sandberg, J. A. C. (1994). <cite>The think aloud method: A practical guide to modelling cognitive processes.</cite> In Department of Social Science Informatics University of Amsterdam. Academic Press. <a href="https://doi.org/10.1016/0306-4573(95)90031-4"><i class="fas fa-link"></i></a>
