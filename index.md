@@ -24,7 +24,7 @@ The distinguishing feature of the HUMAN workshop would be how human-centric expe
 <p class="theme">Verbally acquired data</p>
 <p class="theme-def">Experiments that utilize information is gathered via speech, think-aloud protocol, oral retrospection, formal or informal interviews</p>
 
-We dedicated each edition of the workshop to a particular theme to encourage the utilization of this theme in the context of SE. The current theme does not excrete any restriction on the accepted topics. It is meant to draw attention to the theme.
+We dedicate each edition of the workshop to a particular theme to encourage the utilization of this theme in the context of SE. The current theme does not expose any restriction on the accepted topics. It is meant to draw attention to the theme.
 
 ### Related Works for Motivation
 
