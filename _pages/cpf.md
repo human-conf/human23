@@ -47,3 +47,6 @@ Empirical utilization or evaluation of theoretical or practical tools, methodolo
 
 Adaptation of theoretical or practical frameworks, mindsets, methodologies of humanities in the context of software engineering-related problems and research issues. Submissions may contain a methodological description of the possible application of humanities-related methods without any empirical evaluation yet.
 
+### Special Issue
+
+Authors of selected papers accepted at HUMAN 2022 will be invited to submit revised, extended versions of their manuscripts for a [special issue](https://human-conf.github.io/human22/publication).
