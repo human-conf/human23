@@ -6,7 +6,7 @@ layout: splash
 
 | Event            | Date                   | Timezone                                                  |
 |------------------|------------------------|-----------------------------------------------------------|
-| **Submission**   | 17th of December, 2021 | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
+| **Submission**   | ~~17th of December, 2021~~ 20th of December, 2021 (extension) | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
 | **Notification** | 7th of January, 2022   | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
 | **Camera Ready** | 12th of January, 2022  | [AoE](https://www.timeanddate.com/time/zones/aoe)         |
 | **Workshop Day** | 18th of March, 2022    | [HST](https://www.timeanddate.com/time/zone/usa/honolulu) |
