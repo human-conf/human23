@@ -27,9 +27,6 @@ excerpt: "Chairs and program committee."
 
 # Program Committee
 
-The list of the PC members is to be finalized. We appreciate your understanding.
-{: .notice--warning}
-
 <p class="align-center"><div class="three-column"><img class="align-center selfy" alt="erika_abraham" src="assets/images/erika_abraham.png" onerror="this.onerror=null;this.src='assets/images/user-secret-solid.svg';"/><a class="name" href="https://ths.rwth-aachen.de/people/erika-abraham/">Erika Abraham</a><br/><span class="emph">RWTH Aachen University<br/><img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany</span></div>
 <div class="three-column"><img class="align-center selfy" alt="bestoun_s__ahmed" src="assets/images/bestoun_s__ahmed.png" onerror="this.onerror=null;this.src='assets/images/user-secret-solid.svg';"/><a class="name" href="http://www.bestoun.net/">Bestoun S. Ahmed</a><br/><span class="emph">Karlstad University<br/><img src="https://flagcdn.com/16x12/se.png" style="vertical-align: middle;" width="16" height="12"> Sweden</span></div>
 <div class="three-column"><img class="align-center selfy" alt="venera_arnaoudova" src="assets/images/venera_arnaoudova.png" onerror="this.onerror=null;this.src='assets/images/user-secret-solid.svg';"/><a class="name" href="https://www.veneraarnaoudova.com/">Venera Arnaoudova</a><br/><span class="emph">School of Electrical Engineering and Computer Science<br/><img src="https://flagcdn.com/16x12/us-wa.png" style="vertical-align: middle;" width="16" height="12"> Washington</span></div>
