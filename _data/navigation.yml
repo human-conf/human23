@@ -5,8 +5,8 @@ main:
     url: /cpf
   - title: "Dates"
     url: /dates
-  - title: "Submission"
-    url: /submission
+  - title: "Accepted papers"
+    url: /accepted-papers
   - title: "Publication"
     url: /publication
 #  - title: "Program (TBA)"
