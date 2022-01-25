@@ -11,6 +11,9 @@ header:
 excerpt: '1st Workshop on Advances in Human-Centric Experiments in Software Engineering<br/>Co-located with [SANER 2022](https://saner2022.uom.gr/index)<br/>Submission deadline: 17th of December, 2021, AoE'
 ---
 
+**Virtual event** Thank you for showing interest about the HUMAN 2022 Workshop! Sadly, we have to announce that the physical component of HUMAN 2022 has been canceled. As a result, it will be entirely virtual and will take place on the same dates as originally planned.
+{: .notice--danger}
+
 # Welcome
 
 A large portion of empirical studies in Software Engineering relies on human-centric experiments, for example, experimentation with development environments and other tools, assessment of effectiveness and usability of novel algorithms, developer productivity measurement, and enhancement, among others. In our field, such studies are planned very rigorously according to the best of our knowledge. However, since our primary field is computer science and not psychology, sociology, or any other field of humanities, soft and social sciences, many times, these experiments are sub-optimal from the methodological point of view.
