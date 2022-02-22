@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Program"
+    url: /program
   - title: "Call for papers"
     url: /cpf
   - title: "Dates"
@@ -9,8 +11,6 @@ main:
     url: /accepted-papers
   - title: "Publication"
     url: /publication
-#  - title: "Program (TBA)"
-#    url: /
   - title: "Organization"
     url: /organization
   - title: "Contact"
