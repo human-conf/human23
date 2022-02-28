@@ -41,7 +41,7 @@ function my(date, duration_text) {
         </tr>
     </thead>
     <tbody>
-        <tr class="shade">
+        <tr class="highlighted">
             <script>
                 document.write(my("2022-03-18 15:15", "0:15"));
             </script>
@@ -65,7 +65,7 @@ function my(date, duration_text) {
                 Lynn Kurnatowski, Annika Meinecke and Adriana Rieger. <cite>Towards using focus groups to identify software developer's interests regarding their development process</cite>
             </td>
         </tr>
-        <tr class="shade">
+        <tr class="highlighted">
             <script>
                 document.write(my("2022-03-18 17:00", "0:15"));
             </script>
@@ -97,7 +97,7 @@ function my(date, duration_text) {
                 Bonita Sharif and Niloofar Mansoor. <cite>Humans in Empirical Software Engineering Studies: An Experience Report</cite>
             </td>
         </tr>
-        <tr class="shade">
+        <tr class="highlighted">
             <script>
                 document.write(my("2022-03-18 18:45", "0:15"));
             </script>
@@ -105,7 +105,7 @@ function my(date, duration_text) {
                 <strong class="emph">Break (opt. collecting controversial statements with Slido)</strong>
             </td>
         </tr>
-        <tr class="shade">
+        <tr class="highlighted">
             <script>
                 document.write(my("2022-03-18 19:00", "0:30"));
             </script>
@@ -113,7 +113,7 @@ function my(date, duration_text) {
                 <strong class="emph">Breakup session (brainstorming with Slido)</strong>
             </td>
         </tr>
-        <tr class="shade">
+        <tr class="highlighted">
             <script>
                 document.write(my("2022-03-18 20:30", "1:0"));
             </script>
