@@ -11,8 +11,12 @@ layout: splash
 
 The link for the event on Zoom will be provided later.
 We will use Slido during [Q&A and interactive sessions](https://app.sli.do/event/c5h6G2qDj6V7751kHNdfkA).
-Authors, presenters, and their audience are encouraged to <strong>raise controversial statements about utilizing humanities during SE research.</strong>
+Authors, presenters, and the audience are encouraged to <strong>raise controversial statements about utilizing humanities during SE research.</strong>
 These statements will be collected during the workshop and discussed during the round-table discussions.
+
+## Post-Workshop Technical Paper
+
+We plan to publish a workshop memorandum paper with the summaries of the presentations and the discussions, as well as ideas for future research and the potential continuation of the workshop. All participants are free to join as authors. Details will be published later.
 
 ## Workshop Schedule
 
