@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-#  - title: "Program"
-#    url: /program
+  - title: "Program"
+    url: /program
   - title: "Call for papers"
     url: /cpf
   - title: "Dates"
