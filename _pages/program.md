@@ -14,6 +14,10 @@ We will use Slido during [Q&A and interactive sessions](https://app.sli.do/event
 Authors, presenters, and the audience are encouraged to <strong>raise controversial statements about utilizing humanities during SE research.</strong>
 These statements will be collected during the workshop and discussed during the round-table discussions.
 
+### Registration
+
+For further details and registration, please navigate to the [registration page of the SANER 2022](https://saner2022.uom.gr/registration).
+
 ## Post-Workshop Technical Paper
 
 We plan to publish a workshop memorandum paper with the summaries of the presentations and the discussions, as well as ideas for future research and the potential continuation of the workshop. All participants are free to join as authors. Details will be published later.
@@ -60,7 +64,7 @@ function my(date, duration_text) {
                 document.write(my("2022-03-18 15:15", "1:00"));
             </script>
             <td>
-                <strong>Keynote:</strong> Westley Weimer and Yu Huang. <cite>Verbal Data in Software Engineering: Challenges and Opportunities</cite>
+                <strong>Keynote:</strong> Westley Weimer and Yu Huang. <cite><a href="/accepted-papers#keynote">Verbal Data in Software Engineering: Challenges and Opportunities</a></cite>
             </td>
         </tr>
         <tr>
