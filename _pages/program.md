@@ -64,7 +64,7 @@ function my(date, duration_text) {
                 document.write(my("2022-03-18 15:15", "1:00"));
             </script>
             <td>
-                <strong>Keynote:</strong> Westley Weimer and Yu Huang. <cite><a href="/accepted-papers#keynote">Verbal Data in Software Engineering: Challenges and Opportunities</a></cite>
+                <strong>Keynote:</strong> Westley Weimer and Yu Huang. <cite><a href="accepted-papers#keynote">Verbal Data in Software Engineering: Challenges and Opportunities</a></cite>
             </td>
         </tr>
         <tr>
