@@ -2,7 +2,7 @@
 title: "Contact"
 permalink: /contact
 layout: splash
-excerpt: "Do you have any question?"
+excerpt: "Reach out to the organizing team"
 ---
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v12.0" nonce="6O4FDXGM"></script>
