@@ -19,9 +19,9 @@ excerpt: "Your contribution."
 
 ## Motivation
 
-Software is developed by humans and for humans - but often without properly considering humans; the focus is on the performance of the system rather than on its user.
-The **2nd Workshop on Advances in Human-Centric Experiments in Software Engineering (HUMAN 2023)** is intended to bring together researchers interested in how the discipline of software engineering can benefit from human involvement through human-centric experiments (i.e., the empirical evaluation of tools, processes, or models that involve human participants). 
-Thereby, the workshop strives to include researchers from fields other than computer science (e.g., psychology or social sciences) who have sound methodological knowledge of applicable techniques for human-centric experiments.
+Software is developed by humans and for humans - but often without properly considering humans. A large part of **empirical studies in software engineering** is based on human-centric experiments - the empirical evaluation of tools, processes, or models that involve human participants (e.g., the usability evaluation of development environments and other tools). Those studies are **designed to the best of the researchers’ knowledge**; yet because their primary field is usually computer science rather than humanities, these experiments are often **suboptimal from a methodological perspective** - they are conducted ad hoc with students or the researchers themselves. In contrast, human studies techniques are well established in psychology, social sciences, or other fields of humanities. 
+
+The **2nd Workshop on Advances in Human-Centric Experiments in Software Engineering (HUMAN 2023)** aims to bring together researchers interested in how the discipline of **software engineering** can **benefit** from human participation through **human-centric experiments**. Therefore, the workshop strives to actively involve **researchers from fields other than computer science** (e.g., psychology or social sciences) who have in-depth methodological knowledge of applicable techniques for human-centered experiments.
 
 ## Topics of Interest
 

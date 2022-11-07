@@ -2,7 +2,7 @@
 title: "Organization"
 permalink: /organization
 layout: splash
-excerpt: "The team behind your workshop."
+excerpt: "The team behind."
 ---
 
 ## Organizing Committee
