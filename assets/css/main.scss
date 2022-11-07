@@ -60,3 +60,7 @@ strong.emph {
 tr.shade {
   background-color: palegreen;
 }
+
+.filter-grey{
+  filter: invert(25%) sepia(2%) saturate(1669%) hue-rotate(152deg) brightness(95%) contrast(94%);
+}

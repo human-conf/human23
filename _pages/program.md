@@ -7,123 +7,43 @@ layout: splash
 <script src="https://momentjs.com/downloads/moment-with-locales.js"></script>
 <script src="https://momentjs.com/downloads/moment-timezone-with-data-10-year-range.js"></script>
 
-The workshop will be held on March 18th 2022 HST.
-Speakers will have 20 minutes for the talk, followed by 5 minutes for answering questions.
 
-The link for the event on Zoom will be provided later.
-We will use Slido during [Q&A and interactive sessions](https://app.sli.do/event/c5h6G2qDj6V7751kHNdfkA)
+## General Information
 
-<script type="text/javascript">
-let my_zone = moment.tz.guess(true);
+The workshop will be held on **March 24, 2023** as either a **hybrid or purely virtual** event. 
+Due to the interdisciplinary nature of the workshop, we will have **two keynotes** - one from software engingeering related to humanities and one vice versa. 
+In addition, the **submitted papers** will be presented - each with a 20-minute talk and 10-minute Q&A session.
+Apart from the presentations, we will include some **interactive sessions**.
 
-function my(date, duration_text) {
-    let conf_date = moment.tz(date, "US/Hawaii");
-    let my_date = moment(conf_date).tz(my_zone);
-    let duration = moment.duration(duration_text);
-    
-    return ''
-        + `<td>${my_date.fromNow()}</td>`
-        + `<td>${conf_date.format("llll")}</td>` 
-        + `<td>${my_date.format("llll")}</td>`
-        + `<td>${duration.humanize()}</td>`;
-}
-</script>
+## Keynotes
 
-<table>
-    <thead>
-        <tr>
-            <th>Relative Time</th>
-            <th>Start in HST</th>
-            <th>Start in Your Time Zone</th>
-            <th>Duration</th>
-            <th>Program</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="shade">
-            <script>
-                document.write(my("2022-03-18 08:15", "0:15"));
-            </script>
-            <td>
-                <strong class="emph">Welcome and Introduction</strong>
-            </td>
-        </tr>
-        <tr>
-            <script>
-                document.write(my("2022-03-18 08:30", "1:00"));
-            </script>
-            <td>
-                <strong>Keynote:</strong> Westley Weimer and Yu Huang. <cite>Verbal Data in Software Engineering: Challenges and Opportunities</cite>
-            </td>
-        </tr>
-        <tr>
-            <script>
-                document.write(my("2022-03-18 09:30", "0:25"));
-            </script>
-            <td>
-                Lynn Kurnatowski, Annika Meinecke and Adriana Rieger. <cite>Towards using focus groups to identify software developer's interests regarding their development process</cite>
-            </td>
-        </tr>
-        <tr class="shade">
-            <script>
-                document.write(my("2022-03-18 10:00", "0:15"));
-            </script>
-            <td>
-                <strong class="emph">Break (opt. collecting controversial statements with Slido)</strong>
-            </td>
-        </tr>
-        <tr>
-            <script>
-                document.write(my("2022-03-18 10:15", "0:25"));
-            </script>
-            <td>
-                Sristy Sumana Nath and Banani Roy. <cite>Exploring Relevant Artifacts of Release Notes: The Practitioners' Perspective</cite>
-            </td>
-        </tr>
-        <tr>
-            <script>
-                document.write(my("2022-03-18 10:45", "0:25"));
-            </script>
-            <td>
-                Lisa Grabinger, Florian Hauser and Jürgen Mottok. <cite>Accessing the Presentation of Causal Graphs and an Application of Gestalt Principles with Eye Tracking</cite>
-            </td>
-        </tr>
-        <tr>
-            <script>
-                document.write(my("2022-03-18 11:15", "0:25"));
-            </script>
-            <td>
-                Bonita Sharif and Niloofar Mansoor. <cite>Humans in Empirical Software Engineering Studies: An Experience Report</cite>
-            </td>
-        </tr>
-        <tr class="shade">
-            <script>
-                document.write(my("2022-03-18 11:45", "0:15"));
-            </script>
-            <td>
-                <strong class="emph">Break (opt. collecting controversial statements with Slido)</strong>
-            </td>
-        </tr>
-        <tr class="shade">
-            <script>
-                document.write(my("2022-03-18 12:00", "0:30"));
-            </script>
-            <td>
-                <strong class="emph">Breakup session (brainstorming with Slido)</strong>
-            </td>
-        </tr>
-        <tr class="shade">
-            <script>
-                document.write(my("2022-03-18 12:30", "1:0"));
-            </script>
-            <td>
-                <strong class="emph">Round-table discussion and closing</strong>
-            </td>
-        </tr>
-    </tbody>
-</table>
+The speakers and their talk titles have not yet been fixed.
 
+## Accepted Papers
 
+The workshop contributions have not yet been selected.
 
-**Manual refresh:** Please refresh the page manually to recalculate relative times.
-{: .notice--danger}
+## Timetable
+
+The timetable below is still preliminary - an exact planning is only possible once the workshop contributions (i.e., accepted papers) and format (i.e., hybrid or purely virtual) are fixed.
+
+| 	          																	| Program			| Starting Time   		  | Time left |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|:-------------------------------:|:---------:|
+| {::nomarkdown}<img src="assets/images/icon_start.svg" style="vertical-align: middle;" width="25" height="25" class="filter-grey">{:/} 		| Opening Session               | March 24, 2023<br/>08:15 am CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T08:15:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_presentation.svg" style="vertical-align: middle;" width="35" height="35" class="filter-grey">{:/}  	| Keynote (humanities)         	| March 24, 2023<br/>08:30 am CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T08:30:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_coffee.svg" style="vertical-align: middle;" width="25" height="25" class="filter-grey">{:/} 		| Coffee Break		        | March 24, 2023<br/>09:30 am CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T09:30:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_presentation.svg" style="vertical-align: middle;" width="35" height="35" class="filter-grey">{:/}   	| Keynote (software engineering)| March 24, 2023<br/>10:00 am CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T10:00:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_presentation.svg" style="vertical-align: middle;" width="35" height="35" class="filter-grey">{:/}   	| Paper Presentation Session	| March 24, 2023<br/>11:00 am CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T11:00:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_lunch.svg" style="vertical-align: middle;" width="25" height="25" class="filter-grey">{:/} 		| Lunch Break			| March 24, 2023<br/>12:00 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T12:00:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_presentation.svg" style="vertical-align: middle;" width="35" height="35" class="filter-grey">{:/}   	| Paper Presentation Session	| March 24, 2023<br/>01:00 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T13:00:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_pause.svg" style="vertical-align: middle;" width="25" height="25" class="filter-grey">{:/} 		| Short Break			| March 24, 2023<br/>02:00 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T14:00:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_chat.svg" style="vertical-align: middle;" width="30" height="30" class="filter-grey">{:/} 			| Interactive Session		| March 24, 2023<br/>02:15 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T14:15:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_coffee.svg" style="vertical-align: middle;" width="25" height="25" class="filter-grey">{:/} 		| Coffee Break		       	| March 24, 2023<br/>03:15 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T15:15:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_presentation.svg" style="vertical-align: middle;" width="35" height="35" class="filter-grey">{:/}   	| Paper Presentation Session	| March 24, 2023<br/>03:45 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T15:45:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_pause.svg" style="vertical-align: middle;" width="25" height="30" class="filter-grey">{:/} 		| Short Break			| March 24, 2023<br/>04:45 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T16:45:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_chat.svg" style="vertical-align: middle;" width="30" height="25" class="filter-grey">{:/} 			| Interactive Session		| March 24, 2023<br/>05:00 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T17:00:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+| {::nomarkdown}<img src="assets/images/icon_end.svg" style="vertical-align: middle;" width="25" height="25" class="filter-grey">{:/} 			| Closing Session		| March 24, 2023<br/>05:45 pm CST | {::nomarkdown}<iframe src="https://free.timeanddate.com/countdown/i8kw8hfh/n754/cf12/cm0/cu3/ct5/cs1/ca0/co0/cr0/ss0/cac3d4144/cpc3d4144/pcfff/tcfff/fs100/szw320/szh135/iso2023-03-24T17:45:00" allowtransparency="true" frameborder="0" width="143" height="31"></iframe>{:/} |
+
+<p>Right now, it is:<br/>
+<iframe src="https://free.timeanddate.com/clock/i8kw6nbv/n754/fs16/fcfff/tc3d4144/ftb/bac3d4144/tt0/tw0/td2/th2/ta1/tb4" frameborder="0" width="153" height="40"></iframe>
+</p>
