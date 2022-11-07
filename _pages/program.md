@@ -2,6 +2,7 @@
 title: "Program"
 permalink: /program
 layout: splash
+excerpt: "The event itself."
 ---
 
 <script src="https://momentjs.com/downloads/moment-with-locales.js"></script>
