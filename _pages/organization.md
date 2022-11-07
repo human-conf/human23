@@ -5,7 +5,7 @@ layout: splash
 excerpt: "The team behind your workshop."
 ---
 
-## Chairs
+## Organizing Committee
 
 <p class="align-center">
 <div class="three-column">
@@ -52,4 +52,4 @@ excerpt: "The team behind your workshop."
 
 ## Program Committee
 
-tbd
+The programm committee has not yet been fixed.

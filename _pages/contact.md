@@ -7,7 +7,7 @@ excerpt: "Reach out to us."
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v12.0" nonce="6O4FDXGM"></script>
 
-If you have any questions or suggestions, you can reach us at the following e-mail address. Your messages will be forwarded to each [organizer](/organization).
+If you have any questions or suggestions, you can reach us at the following e-mail address. Your messages will be forwarded to each [member of the organizing committee](/organization).
 
 [Send an e-mail to human-conf@googlegroups.com](mailto:human-conf@googlegroups.com?subject=[HUMAN22]%20your%20subject){: .btn .btn--warning}
 

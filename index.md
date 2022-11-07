@@ -8,7 +8,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: /assets/images/human_banner_4k.jpg
-excerpt: '1st Workshop on Advances in Human-Centric Experiments in Software Engineering<br/>Co-located with [SANER 2022](https://saner2022.uom.gr/index)<br/>Submission deadline: 17th of December, 2021, AoE'
+excerpt: '2nd Workshop on Advances in Human-Centric Experiments in Software Engineering<br/>Co-located with [SANER 2023](https://saner2023.must.edu.mo/)<br/>Submission deadline: 17th of December, 2022, AoE'
 ---
 
 **Virtual event** Thank you for showing interest about the HUMAN 2022 Workshop! Sadly, we have to announce that the physical component of HUMAN 2022 has been canceled. As a result, it will be entirely virtual and will take place on the same dates as originally planned.
