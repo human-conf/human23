@@ -22,7 +22,7 @@ excerpt: "The team behind."
     <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Assistant Professor<br/> 
 		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Vanderbilt University Nashville<br/>
 		       <img src="https://flagcdn.com/16x12/us-tn.png" style="vertical-align: middle;" width="16" height="12"> Tennesse<br/>
-		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Software Engineering Programm Chair</span>
+		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Software Engineering Program Chair</span>
 </div>
 <div class="three-column">
     <img class="align-center selfy" alt="florian-hauser" src="assets/images/florian_hauser.png"/>
@@ -30,7 +30,7 @@ excerpt: "The team behind."
     <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Ph.D. Student<br/> 
 		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> OTH Regensburg<br/>
 		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
-		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Humanties Programm Chair</span>
+		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Humanties Program Chair</span>
 </div>
 <div class="three-column">
     <img class="align-center selfy" alt="juergen-mottok" src="assets/images/juergen_mottok.jpg"/>
@@ -38,7 +38,7 @@ excerpt: "The team behind."
     <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Research Professor<br/> 
 		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> OTH Regensburg<br/>
 		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
-		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Humanties Programm Chair</span>
+		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Humanties Program Chair</span>
 </div>
 <div class="three-column">
     <img class="align-center selfy" alt="lisa-grabinger" src="assets/images/lisa_grabinger.jpg"/>
