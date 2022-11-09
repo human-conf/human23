@@ -1,16 +1,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "Call for papers"
+    url: /cfp 
   - title: "Program"
     url: /program
-  - title: "Call for papers"
-    url: /cpf
-  - title: "Dates"
-    url: /dates
-  - title: "Accepted papers"
-    url: /accepted-papers
-  - title: "Publication"
-    url: /publication
   - title: "Organization"
     url: /organization
   - title: "Contact"
