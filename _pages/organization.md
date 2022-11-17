@@ -20,7 +20,7 @@ excerpt: "The team behind."
     <img class="align-center selfy" alt="yu-huang" src="assets/images/yu_huang.png"/>
     <a class="name" href="https://yuhuang-lab.github.io/">Yu Huang, Ph.D.</a><br/>
     <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Assistant Professor<br/> 
-		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Vanderbilt University Nashville<br/>
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Vanderbilt University<br/>
 		       <img src="https://flagcdn.com/16x12/us.png" style="vertical-align: middle;" width="16" height="12"> USA<br/>
 		       <img src="assets/images/icon_chair.svg" style="vertical-align: middle;" width="13" height="13"> Software Engineering Program Chair</span>
 </div>
