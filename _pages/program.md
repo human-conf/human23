@@ -26,7 +26,7 @@ The workshop contributions have not yet been selected.
 
 ## Timetable
 
-The timetable below is still preliminary - an exact planning is only possible once the workshop contributions (i.e., accepted papers) and format (i.e., hybrid or purely virtual) are fixed.
+The timetable below is still **preliminary** - an exact planning is only possible once the workshop contributions (i.e., accepted papers) and format (i.e., hybrid or purely virtual) are fixed.
 
 | 	          																	| Program			| Starting Time   		  | Time left |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|:-------------------------------:|:---------:|
