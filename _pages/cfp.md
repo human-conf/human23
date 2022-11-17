@@ -25,28 +25,16 @@ The **2nd Workshop on Advances in Human-Centric Experiments in Software Engineer
 
 ## Topics of Interest
 
-The contributions should be of direct interest to **software engineering**, especially for the areas of analysis, development, and (re)engineering. Topics of interest include aspects listed for the main conference; in particular:
+The contributions should be of direct interest to **software engineering**, especially for the areas of analysis, development, and (re)engineering. In particular:
 
-+ Software Analysis, Parsing, and Fact Extraction
-+ Software Reverse Engineering and Reengineering
-+ Program Comprehension
-+ Software Evolution Analysis
-+ Software Architecture Recovery and Reverse Architecting
-+ Program Transformation and Refactoring
-+ Mining of Software Repositories and Software Analytics
-+ Software Visualization
-+ Software Reconstruction and Migration
-+ Software Maintenance and Evolution
-+ Program Repair
-+ Software Release Engineering, Continuous Integration and Delivery
-+ Software Engineering Education
-+ Software Design or Engineering Philosophies, Practices, and Tools
-+ Adaption of Tools or Processes for Organizational and Cultural Situations
-+ Teamwork, Collaboration, or Cooperation in or across Various Development Teams
-+ Community-based Software Development (e.g., Open Source, Crowdsourcing, etc.)
-+ Processes and Tools for the Communication, Collaboration, and Cooperation among Stakeholders
++ Empirical evaluations of software tools, methods, and (re)engineering.
++ Human aspects in software development, analysis, and evolution, including collaborative software (re)engineering practices.
++ Research methods for conducting experiments in software development that focus on humans.
++ Objective measurement and assessment for human aspects in software development practices.
++ Qualitative analysis in software analysis, development, and (re)engineering.
++ Social aspects of software engineering practice, including gender, equity, and diversity.
 
-**Additional topics** are also welcome. 
+**Additional topics** involving both software engineering and human aspects are also welcome. 
 
 ## Categories
 
