@@ -50,7 +50,7 @@ All submissions need to:
 + ... be in **english**
 + ... not exceed **8 pages** including references, figures, and appendices
 + ... come in **PDF format**
-+ ... be uploaded electronically in via **[EasyChair](https://easychair.org/conferences/?conf=human22)**
++ ... be uploaded electronically in via **[EasyChair](https://easychair.org/conferences/?conf=human23)**
 + ... conform to the **[IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)**
 + ... comply with the **[IEEE Policy on Authorship](https://www.ieee.org/publications_standards/publications/rights/authorrightsresponsibilities.html)**
 
