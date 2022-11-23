@@ -52,4 +52,4 @@ excerpt: "The team behind."
 
 ## Program Committee
 
-The programm committee has not yet been fixed.
+The program committee has not yet been fixed.
