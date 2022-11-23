@@ -11,6 +11,14 @@ If you have any questions or suggestions, you can reach us at the following e-ma
 
 [Send an e-mail to human-conf@googlegroups.com](mailto:human-conf@googlegroups.com?subject=[HUMAN22]%20your%20subject){: .btn .btn--warning}
 
+## Further Links
+
+The workshop is the 2nd iteration of the HUMAN-series and co-located with the SANER 2023 conference. Submission is done via EasyChair. For further information see:
+
++ **[HUMAN-series](https://human-conf.github.io/)**
++ **[SANER 2023](https://saner2023.must.edu.mo)**
++ **[EasyChair](https://easychair.org/conferences/?conf=human23)**
+
 ## Social Media
 
 <div class="three-column">
