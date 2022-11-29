@@ -8,4 +8,4 @@ excerpt: 'Welcome!'
 ---
 
 Welcome to the website of HUMAN 2023 - the 2nd Workshop on Advances in Human-Centric Experiments in Software Engineering. 
-The workshop is **co-located with [SANER 2023](https://saner2023.must.edu.mo/)** (March 21-24, 2023).
+The workshop is **co-located with [SANER 2023](https://saner2023.must.edu.mo/)** and held at **March 21, 2023**.
