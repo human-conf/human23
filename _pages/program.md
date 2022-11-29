@@ -11,7 +11,7 @@ excerpt: "The event itself."
 
 ## General Information
 
-The workshop will be held between **March 21**, 2023** as either a **hybrid or purely virtual** event. 
+The workshop will be held between **March 21, 2023** as either a **hybrid or purely virtual** event. 
 Due to the interdisciplinary nature of the workshop, we will have **two keynotes** - one from software engingeering related to humanities and one vice versa. 
 In addition, the **submitted papers** will be presented - each with a 20-minute talk and 10-minute Q&A session.
 Apart from the presentations, we will include some **interactive sessions**.
