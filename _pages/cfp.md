@@ -9,7 +9,7 @@ excerpt: "Your contribution."
 
 | Event            | Date               | Timezone                                                  	    |
 |------------------|--------------------|-------------------------------------------------------------------|
-| **Submission**   | December 16, 2022	| [AoE](https://www.timeanddate.com/time/zones/aoe)         	    |
+| **Submission**   | ~~December 16, 2022~~, December 18, 2022 (extension) | [AoE](https://www.timeanddate.com/time/zones/aoe)         	    |
 | **Notification** | January 6, 2023	  | [AoE](https://www.timeanddate.com/time/zones/aoe)         	    |
 | **Camera-Ready** | January 13, 2023	  | [AoE](https://www.timeanddate.com/time/zones/aoe)         	    |
 
