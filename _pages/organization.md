@@ -52,4 +52,125 @@ excerpt: "The team behind."
 
 ## Program Committee
 
-The program committee has not yet been fixed.
+<p>
+	<div class="three-column">
+    <img class="align-center selfy" alt="norman-peitek" src="assets/images/norman-peitek.jpeg"/>
+    <a class="name">Norman Peitek, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Postdoctoral Researcher<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Saarland University<br/>
+		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="shin-hwei-tan" src="assets/images/shin-hwei-tan.jpg"/>
+    <a class="name">Shin Hwei Tan, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Assistant Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Southern University of Science and Technology<br/>
+		       <img src="https://flagcdn.com/16x12/cn.png" style="vertical-align: middle;" width="16" height="12"> China<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="gina-bai" src="assets/images/gina-bai.jpg"/>
+    <a class="name">Gina Bai, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Assistant Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> North Carolina State University<br/>
+		       <img src="https://flagcdn.com/16x12/us.png" style="vertical-align: middle;" width="16" height="12"> USA<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="dror-feitelson" src="assets/images/dror-feitelson.gif"/>
+    <a class="name">Dror Feitelson, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Hebrew University<br/>
+		       <img src="https://flagcdn.com/16x12/il.png" style="vertical-align: middle;" width="16" height="12"> Israel<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="kai-presler-marshall" src="assets/images/kai-presler-marshall.jpg"/>
+    <a class="name">Kai Presler-Marshall, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Lecturer<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Bowdoin College<br/>
+		       <img src="https://flagcdn.com/16x12/zs.png" style="vertical-align: middle;" width="16" height="12"> USA<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="bruce-maxim" src="assets/images/bruce-maxim.jpg"/>
+    <a class="name">Bruce Maxim, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Lecturer<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Michigan<br/>
+		       <img src="https://flagcdn.com/16x12/us.png" style="vertical-align: middle;" width="16" height="12"> USA<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="christian-wolff" src="assets/images/christian-wolff.jpeg"/>
+    <a class="name">Christian Wolff, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Regensburg<br/>
+		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="dominik-froehlich" src="assets/images/dominik-froehlich.jpeg"/>
+    <a class="name">Dominik Froehlich, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Postdoctoral Researcher<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Vienna<br/>
+		       <img src="https://flagcdn.com/16x12/at.png" style="vertical-align: middle;" width="16" height="12"> Austria<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="bonita-sharif" src="assets/images/bonita-sharif.jpeg"/>
+    <a class="name">Bonita Sharif, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Nebraska - Lincoln<br/>
+		       <img src="https://flagcdn.com/16x12/us.png" style="vertical-align: middle;" width="16" height="12"> USA<br/>
+</div>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="domenico-gigante" src="assets/images/dror-feitelson.gif"/>
+    <a class="name">Domenico Gigante, M.Sc.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Ph.D. Student<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Bari<br/>
+		       <img src="https://flagcdn.com/16x12/it.png" style="vertical-align: middle;" width="16" height="12"> Italy<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="ivan-mistrik" src="assets/images/dror-feitelson.gif"/>
+    <a class="name">Ivan Mistrik, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Independent Consultant<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> -<br/>
+		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="paula-bartel" src="assets/images/dror-feitelson.gif"/>
+    <a class="name">Paula Bartel, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Postdoctoral Researcher<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> HS Kempten<br/>
+		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="hans-gruber" src="assets/images/hans-gruber.jpg"/>
+    <a class="name">Hans Gruber, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Regensburg<br/>
+		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="gabor-antal" src="assets/images/gabor-antal.jpeg"/>
+    <a class="name">Gábor Antal, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Szeged<br/>
+		       <img src="https://flagcdn.com/16x12/hu.png" style="vertical-align: middle;" width="16" height="12"> Hungary<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="andreas-gegenfurtner" src="assets/images/andreas-gegenfurtner.jpg"/>
+    <a class="name">Andreas Gegenfurtner, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> Augsburg University<br/>
+		       <img src="https://flagcdn.com/16x12/de.png" style="vertical-align: middle;" width="16" height="12"> Germany<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="gabor-nemeth" src="assets/images/gabor-nemeth.jpeg"/>
+    <a class="name">Gabor Nemeth, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Professor<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Szeged<br/>
+		       <img src="https://flagcdn.com/16x12/hu.png" style="vertical-align: middle;" width="16" height="12"> Hungary<br/>
+</div>
+<div class="three-column">
+    <img class="align-center selfy" alt="erika-griechisch" src="assets/images/erika-griechisch.jpeg"/>
+    <a class="name">Erika Griechisch, Ph.D.</a><br/>
+    <span class="emph"><img src="assets/images/icon_person.svg" style="vertical-align: middle;" width="13" height="13"> Lecturer<br/> 
+		       <img src="assets/images/icon_location.svg" style="vertical-align: middle;" width="13" height="13"> University of Szeged<br/>
+		       <img src="https://flagcdn.com/16x12/hu.png" style="vertical-align: middle;" width="16" height="12"> Hungary<br/>
+</div>
+</p>
