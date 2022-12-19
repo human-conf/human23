@@ -52,7 +52,7 @@ excerpt: "The team behind."
 
 ## Program Committee
 
-<p>
+<p class="align-center">
 <div class="three-column">
     <img class="align-center selfy" alt="norman-peitek" src="assets/images/norman_peitek.jpeg"/>
     <a class="emph">Norman Peitek, Ph.D.</a><br/>
