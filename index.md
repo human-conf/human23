@@ -7,7 +7,7 @@ header:
 excerpt: 'Welcome!'
 ---
 
-*HUMAN 2023 postpone** We regret to inform you that the workshop was postponed for various reasons, so the co-located event with SANER 2023 will not occur. We will continue to work on solving these issues to meet on the next occasion. We will do our best to keep you in the loop. You will find all relevant news and updates on our Twitter channel (https://twitter.com/human_workshop).
+**HUMAN 2023 postpone** We regret to inform you that the workshop was postponed for various reasons, so the co-located event with SANER 2023 will not occur. We will continue to work on solving these issues to meet on the next occasion. We will do our best to keep you in the loop. You will find all relevant news and updates on our Twitter channel (https://twitter.com/human_workshop).
 {: .notice--danger}
 
 Welcome to the website of HUMAN 2023 - the 2nd Workshop on Advances in Human-Centric Experiments in Software Engineering. 
